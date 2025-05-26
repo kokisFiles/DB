@@ -3,7 +3,7 @@
         "Madoka": {
             "id": 1,
             "año": 2010
-        }
+        },
         "Naruto": {
             "id": 2,
             "año": 2002
@@ -12,5 +12,54 @@
             "id": 3,
             "año": 1999
         },
+        "Attack on Titan": {
+            "id": 4,
+            "año": 2013
+        },
+        "Death Note": {
+            "id": 5,
+            "año": 2006
+        },      
+        "My Hero Academia": {
+            "id": 6,
+            "año": 2016
+        },
+        "Demon Slayer": {
+            "id": 7,
+            "año": 2019
+        },
+        "Sword Art Online": {
+            "id": 8,
+            "año": 2012
+        },
+        "Fullmetal Alchemist": {
+            "id": 9,
+            "año": 2003
+        },
+        "Dragon Ball Z": {
+            "id": 10,
+            "año": 1989
+        },
+        "Hunter x Hunter": {
+            "id": 11,
+            "año": 2011
+        },
+        "Tokyo Ghoul": {
+            "id": 12,
+            "año": 2014
+        },
+        "Steins;Gate": {
+            "id": 13,
+            "año": 2011
+        },
+        "Cowboy Bebop": {
+            "id": 14,
+            "año": 1998
+        },
+        "Neon Genesis Evangelion": {
+            "id": 15,
+            "año": 1995
+        }
+        
     }
 }
